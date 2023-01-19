@@ -14,3 +14,7 @@ The questions that the team plans to answer with the project;
 -The reason why employees tend to leave their current work.
 -Stats divided by age, sex, type of drugs that leads employees to leave
 -We will be able to identify 
+
+
+Limitation;
+Data selection 
