@@ -1,8 +1,8 @@
 # Project_one
 
 The selected topic and the reasoning for that selection;
--Reason for leaving jobs between 2019-2022
--Mental health during layoffs 2010-2012
+-Reason for leaving jobs between 2002-2012
+-Mental health during layoffs 2002-2012
 Using the data we've found on the topics above, we will be able to determine and show during our presentation the common factors and reasons why people tend to quit their jobs and how that impacts their mental health. The age and sex varies between people and we will be able to determine a report that will give us details about the consequences and effect is has. 
 
 A description of the data;
