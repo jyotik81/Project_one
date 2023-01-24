@@ -1,4 +1,4 @@
-,REF_DATE,GEO,Sex,Age group,Indicators,VALUE,Dissatisfied,Going to school,Have not worked in last year,Job leavers,Jobs losers,Never worked,Other reasons,Own illness or disability,Permanent layoff,Personal or family reasons,Retired,Temporary layoff
+,Year,Province,Sex,Age_group,Indicators_Mental_Health,Num_Person_Mental_H,J_L_R_Dissatisfied,J_L_R_Going_to_school,J_L_R_not_worked_last_year,J_L_R_Job_leavers,J_L_R_Jobs_losers,J_L_R_Never_worked,J_L_R_Other_reasons,J_L_R_Own_illness_disability,J_L_R_Permanent_layoff,J_L_R_Personal_family_reasons,J_L_R_Retired,J_L_R_Temporary_layoff
 0,2002,Alberta,Females,1,"Cannabis use, 12 months",63387.0,12300.0,42600.0,18600.0,71200.0,21500.0,49700.0,4000.0,0.0,21300.0,8200.0,0.0,0.0
 1,2002,Alberta,Females,1,"Cannabis use, life",106926.0,12300.0,42600.0,18600.0,71200.0,21500.0,49700.0,4000.0,0.0,21300.0,8200.0,0.0,0.0
 2,2002,Alberta,Females,1,"Eating disorder, current diagnosed condition",0.0,12300.0,42600.0,18600.0,71200.0,21500.0,49700.0,4000.0,0.0,21300.0,8200.0,0.0,0.0
