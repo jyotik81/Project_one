@@ -1,20 +1,40 @@
-# Project_one
+# Study of the relation between Reasons for Leaving a Job and Health Characteristics
 
-The selected topic and the reasoning for that selection;
--Reason for leaving jobs between 2002-2012
--Mental health during layoffs 2002-2012
-Using the data we've found on the topics above, we will be able to determine and show during our presentation the common factors and reasons why people tend to quit their jobs and how that impacts their mental health. The age and sex varies between people and we will be able to determine a report that will give us details about the consequences and effect is has. 
+# Overview of the analysis:
+This project aims to assess the reasons for leaving the job and whether they are related to different types of health characteristics.  
+Our initial objective was to study the effects on the health of people affected by the layoffs that have occurred in the most different industries lately, especially in IT, but due to the limitation in the researched databases, it was necessary to change the initial idea and in this way we will work with all the reasons for leaving the job.
 
-A description of the data;
-Reason for leaving job during previous year, annual (x 1,000)1
-Link: (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410012601&pickMembers%5B0%5D=1.1&pickMembers%5B1%5D=3.1&pickMembers%5B2%5D=4.1&pickMembers%5B3%5D=5.1&cubeTimeFrame.startYear=2019&cubeTimeFrame.endYear=2022&referencePeriods=20190101%2C20220101)
--We will be using the data in the link above to clean it and have it ready to use. Once that is done we will be able to work with it to build our both of our tableau and combine them together to see the results. We will be using that by using ERD into the Tableau from where we will have cleaned the dataset.
+## Description of the data:
+To carry out this project, we used tables available on the Statistics Canada website.  
+The tables used are:  
 
-The questions that the team plans to answer with the project;
--The reason why employees tend to leave their current work.
--Stats divided by age, sex, type of drugs that leads employees to leave
--We will be able to identify 
+- Reason for leaving job during previous year (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410012601)  
+
+![job_df](https://user-images.githubusercontent.com/111664141/214451791-b6f69b54-a5f9-406f-aecf-9a284cabcf84.JPG)
+
+- Health characteristics (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310009601)   
+
+![heath_df](https://user-images.githubusercontent.com/111664141/214452085-fd692e54-2bdd-4266-99e1-042d7af5e303.JPG)
+
+In the images below we present the data in its raw form as well as identify which cleanings are necessary for future modeling.  
+
+![job_dic](https://user-images.githubusercontent.com/111664141/214452510-8ff06096-6adc-4b37-a14a-6be5d336e51d.JPG)
+![health_dic](https://user-images.githubusercontent.com/111664141/214452524-f1b3eca4-a70e-429d-9e1c-83b4554490cd.JPG)
 
 
-An important point that needs to be mentionned is the data selection limitation. We encountered an issue where the most recent data based on our project goes back from 2002 to 2012. These are the most recent and up to date where the age, gender and location are all present to and match both tableau.
+To create our future models, we merge the two previous tables by Year, Province, Sex and Age_group, reaching the final result in the table below.  
 
+![final_dic](https://user-images.githubusercontent.com/111664141/214452552-19dec640-385c-4848-b74f-f9cfd1594b43.JPG)
+
+
+As previously mentioned, because we have a limitation of the data found, our analysis will be based on the years between 2017 and 2021 (5 years).  
+Our final dataframe is:  
+
+![healthXjob_df](https://user-images.githubusercontent.com/111664141/214452574-22411f82-ecf0-4fe5-acfe-9096cdc1e01e.JPG)
+
+
+## Questions to answer with the project:
+Based on the data presented above, the questions we intend to answer in this project are:
+-  What are the main reasons why employees tend to leave their current job?
+- Is there any relation between reasons for leaving employment and health characteristics? If such relation exist, what are the major correlations?
+- Do province, gender, and age group interfere with any specific health characteristics?
