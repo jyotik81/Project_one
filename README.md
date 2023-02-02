@@ -102,4 +102,12 @@ As we can see in the images above, this model presented a very good adherence to
 Below we list the variables with the greatest weight for the model in order of importance.
 ![variables](https://user-images.githubusercontent.com/111664141/216178850-6a95ede3-30fa-4368-9354-08e3f01e17dd.JPG)
 
+### Answer to the 3 questions:
+
+1)
+
+2)
+
+3)
+
 
