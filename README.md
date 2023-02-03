@@ -112,6 +112,7 @@ and in some cases permanent lay offs.
 2)To a certain degree, yes there is a relation among many other however health is not the main factor for employees leaving their jobs.
 As seen is the correlatio matrix and the heat map, many indicators showed revolved around different health factors that could leave to someone 
 leaving their current job but comparing it to the other factors given, we can see that the correlation does not go above 0.80.
+
 3) What are the main factors for employees leaving their jobs?
 After gathering, organising, cleaning, and evaluating the data, our team realised that retirement, returning to school for students, and workplace
 dissatisfaction are the main reasons why people leave their jobs. Now when it comes to some employees, our data suggest that many have pulmonary
