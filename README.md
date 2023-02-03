@@ -114,5 +114,7 @@ As seen is the correlatio matrix and the heat map, many indicators showed revolv
 leaving their current job but comparing it to the other factors given, we can see that the correlation does not go above 0.80.
 
 3) What are the main factors for employees leaving their jobs?
-
+After gathering, organising, cleaning, and evaluating the data, our team realised that retirement, returning to school for students, and workplace
+dissatisfaction are the main reasons why people leave their jobs. Now when it comes to some employees, our data suggest that many have pulmonary
+disease, asthma and diabetes. These are main factors employees leave due to their health.
 
