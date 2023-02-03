@@ -37,7 +37,7 @@ Our final dataframe is:
 Based on the data presented above, the questions we intend to answer in this project are:
 -  What are the main reasons why employees tend to leave their current job?
 - Is there any relation between reasons for leaving employment and health characteristics? If such relation exist, what are the major correlations?
-- Do province, gender, and age group interfere with any specific health characteristics?
+- What other major factors affect employees leaving their jobs, and what happens when health-related reasons are involved?
 
 
 
@@ -113,7 +113,7 @@ and in some cases permanent lay offs.
 As seen is the correlatio matrix and the heat map, many indicators showed revolved around different health factors that could leave to someone 
 leaving their current job but comparing it to the other factors given, we can see that the correlation does not go above 0.80.
 
-3) What are the main factors for employees leaving their jobs?
+3) What other major factors affect employees leaving their jobs, and what happens when health-related reasons are involved?
 After gathering, organising, cleaning, and evaluating the data, our team realised that retirement, returning to school for students, and workplace
 dissatisfaction are the main reasons why people leave their jobs. Now when it comes to some employees, our data suggest that many have pulmonary
 disease, asthma and diabetes. These are main factors employees leave due to their health.
