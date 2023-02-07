@@ -104,12 +104,12 @@ Below we list the variables with the greatest weight for the model in order of i
 
 ### Answer to the 3 questions:
 
-1)After a research study and accumulation of data, we came to a realisation that most people leave their job for various reasons, often not 
+1) After a research study and accumulation of data, we came to a realisation that most people leave their job for various reasons, often not 
 as serious or mandatory due to their health. With the data presented, we can that se correlation matrix shows that the primary reasons revolve around
 the younger age group returning to school, when it comes to retirement mostly, unsatisfaction with the work environment which leads to disatisfaction
 and in some cases permanent lay offs.
 
-2)To a certain degree, yes there is a relation among many other however health is not the main factor for employees leaving their jobs.
+2) To a certain degree, yes there is a relation among many other however health is not the main factor for employees leaving their jobs.
 As seen is the correlatio matrix and the heat map, many indicators showed revolved around different health factors that could leave to someone 
 leaving their current job but comparing it to the other factors given, we can see that the correlation does not go above 0.80.
 
