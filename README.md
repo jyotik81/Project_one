@@ -126,6 +126,10 @@ Class 2: age group 3 and 4 (seniors) and only 3 provinces
 Class 3: only women of all age groups and excluding the provinces of Ontario  
 Class 4: age group 1 and 2 (young adults) and provinces of Ontario and Quebec only  
 
+More dashboard can be seen in the Tableau dashboards:
+[link to dashboard] https://public.tableau.com/app/profile/jyoti.khatri4653/viz/LayoffMentalhealth/Dashboard
+
+
 ## Summary
 Analyzing all the data above, we can see that our model, despite having good accuracy in predicting the classification, cannot explain a specific variable. This may be related to our findings that the values of health indicators are not related to the values of the reasons for leaving the job. Therefore, we cannot specify the main reasons that lead people to leave work.  
 As the data used were 3 years before the start of the pandemic and 2 years after the start of the pandemic, our data may have been biased due to the fact that many people lost their jobs in the last 2 years of the analysis. And consequently, health problems can affect people who leave their jobs later, which maybe 2 years is a short period of time for this model to be developed without having this pandemic bias.  
