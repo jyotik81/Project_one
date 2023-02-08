@@ -121,3 +121,35 @@ After gathering, organising, cleaning, and evaluating the data, our team realise
 dissatisfaction are the main reasons why people leave their jobs. Now when it comes to some employees, our data suggest that many have pulmonary
 disease, asthma and diabetes. These are main factors employees leave due to their health.
 
+#### Tableau Analysis
+After the model was finalized, we used Tableau software as a tool to visualize our findings.  
+
+In the figure below where we analyze the Health Indicators and the number of people who declared this, we can see that the classification did not serve to differentiate which type of health indicator is being considered. In a future prediction, we will not be able to tell which health indicator affects the individual just by looking at the model classification.  
+
+![Indicators_HealthbyClass](https://user-images.githubusercontent.com/111664141/217411166-0df94320-ce63-44a7-af03-c62cb0bf5184.JPG)  
+
+In this other dashboard, we analyze the average of layoffs (Permanent Layoff and Temporary Layoff) during the years of the analysis and separated by age group.  
+![LayoffsbyAgeGroup](https://user-images.githubusercontent.com/111664141/217411268-8b12e485-18c6-435b-a578-98330f827a7e.JPG)  
+
+The first thing we can see is that 2020 was the peak of layoffs, followed by 2021, affected by the pandemic.  
+Another analysis that we can do is that those most affected by the layoffs were professionals with an average age of up to 30 to 50 years, followed by professionals in the range of 15 to 29 years. In these cases, the model managed to classify the ages, such as classes 0 and 4 for professionals under 50 years old and class 2 for those over 50 years old.
+
+In the bellow dashboard, we analyze the classification by province, age group and gender.  
+![ProvincebyAge_Sex_Class](https://user-images.githubusercontent.com/111664141/217411455-eda2fbfe-4892-487a-b177-4c321aa7ca21.JPG)  
+
+We can check how the model classifies each of the groups:  
+Class 0: only age group 1 and 2 and 3 provinces  
+Class 1: Men only of all age groups and excluding the provinces of Ontario and Quebec  
+Class 2: age group 3 and 4 (seniors) and only 3 provinces  
+Class 3: only women of all age groups and excluding the provinces of Ontario  
+Class 4: age group 1 and 2 (young adults) and provinces of Ontario and Quebec only  
+
+More dashboard can be seen in the Tableau dashboards:  
+[link to dashboard] https://public.tableau.com/app/profile/jyoti.khatri4653/viz/LayoffMentalhealth/Dashboard
+
+
+## Summary
+Analyzing all the data above, we can see that our model, despite having good accuracy in predicting the classification, cannot explain a specific variable. This may be related to our findings that the values of health indicators are not related to the values of the reasons for leaving the job. Therefore, we cannot specify the main reasons that lead people to leave work.  
+As the data used were 3 years before the start of the pandemic and 2 years after the start of the pandemic, our data may have been biased due to the fact that many people lost their jobs in the last 2 years of the analysis. And consequently, health problems can affect people who leave their jobs later, which maybe 2 years is a short period of time for this model to be developed without having this pandemic bias.  
+As improvements for a future model, analyze the most recent data (2022) as we believe we have a lot of important data in this analysis as it was a year with a lot of change in the employment situation. Another improvement would be to select only health indicators with expressive values that will really make sense for the analysis. And finally, analyze the values in terms of percentages of the population, since the provinces have very different densities.
+
