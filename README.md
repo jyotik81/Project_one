@@ -1,6 +1,6 @@
 # Study of the relation between Reasons for Leaving a Job and Health Characteristics
 
-https://public.tableau.com/app/profile/jyoti.khatri4653/viz/LayoffMentalhealth/Dashboard1
+https://public.tableau.com/authoring/LayoffHealthIndicator/Dashboard1#1
 
 
 # Overview of the analysis:
