@@ -1,5 +1,8 @@
 # Study of the relation between Reasons for Leaving a Job and Health Characteristics
 
+https://public.tableau.com/app/profile/jyoti.khatri4653/viz/LayoffMentalhealth/Dashboard1
+
+
 # Overview of the analysis:
 This project aims to assess the reasons for leaving the job and whether they are related to different types of health characteristics.  
 Our initial objective was to study the effects on the health of people affected by the layoffs that have occurred in the most different industries lately, especially in IT, but due to the limitation in the researched databases, it was necessary to change the initial idea and in this way we will work with all the reasons for leaving the job.
