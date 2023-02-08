@@ -145,7 +145,7 @@ Class 3: only women of all age groups and excluding the provinces of Ontario
 Class 4: age group 1 and 2 (young adults) and provinces of Ontario and Quebec only  
 
 More dashboard can be seen in the Tableau dashboards:  
-[link to dashboard] https://public.tableau.com/app/profile/jyoti.khatri4653/viz/LayoffMentalhealth/Dashboard
+https://public.tableau.com/authoring/LayoffHealthIndicator/Dashboard1#1
 
 
 ## Summary
