@@ -1,7 +1,9 @@
 # Study of the relation between Reasons for Leaving a Job and Health Characteristics
 
 https://public.tableau.com/authoring/LayoffHealthIndicator/Dashboard1#1
+https://public.tableau.com/app/profile/fernanda.reckziegel/viz/Classification_Analysis/Classification?publish=yes
 
+There are two different dashboards as two differnt data sources. 
 
 # Overview of the analysis:
 This project aims to assess the reasons for leaving the job and whether they are related to different types of health characteristics.  
@@ -132,6 +134,7 @@ Class 4: age group 1 and 2 (young adults) and provinces of Ontario and Quebec on
 More dashboard can be seen in the Tableau dashboards:  
 https://public.tableau.com/authoring/LayoffHealthIndicator/Dashboard1#1
 
+https://public.tableau.com/app/profile/fernanda.reckziegel/viz/Classification_Analysis/Classification?publish=yes
 
 ## Summary
 Analyzing all the data above, we can see that our model, despite having good accuracy in predicting the classification, cannot explain a specific variable. This may be related to our findings that the values of health indicators are not related to the values of the reasons for leaving the job. Therefore, we cannot specify the main reasons that lead people to leave work.  
