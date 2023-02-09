@@ -105,21 +105,6 @@ As we can see in the images above, this model presented a very good adherence to
 Below we list the variables with the greatest weight for the model in order of importance.
 ![variables](https://user-images.githubusercontent.com/111664141/216178850-6a95ede3-30fa-4368-9354-08e3f01e17dd.JPG)
 
-### Answer to the 3 questions:
-
-1) After a research study and accumulation of data, we came to a realisation that most people leave their job for various reasons, often not 
-as serious or mandatory due to their health. With the data presented, we can that se correlation matrix shows that the primary reasons revolve around
-the younger age group returning to school, when it comes to retirement mostly, unsatisfaction with the work environment which leads to disatisfaction
-and in some cases permanent lay offs.
-
-2) To a certain degree, yes there is a relation among many other however health is not the main factor for employees leaving their jobs.
-As seen is the correlatio matrix and the heat map, many indicators showed revolved around different health factors that could leave to someone 
-leaving their current job but comparing it to the other factors given, we can see that the correlation does not go above 0.80.
-
-3) What other major factors affect employees leaving their jobs, and what happens when health-related reasons are involved?
-After gathering, organising, cleaning, and evaluating the data, our team realised that retirement, returning to school for students, and workplace
-dissatisfaction are the main reasons why people leave their jobs. Now when it comes to some employees, our data suggest that many have pulmonary
-disease, asthma and diabetes. These are main factors employees leave due to their health.
 
 #### Tableau Analysis
 After the model was finalized, we used Tableau software as a tool to visualize our findings.  
